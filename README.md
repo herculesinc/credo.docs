@@ -1,8 +1,8 @@
 ## Overview
 Credo360 public API allows 3rd parties to retrieve users' reputation information from Credo system. Currently, the API enables the following:
 
-* Validate ownership of a given Credo ID (authentication)
-* Retrieve user's public profile
+* Validate ownership of a given Credo ID ([authentication](#authentication))
+* Retrieve user's public profile ([user info](#user-info))
 
 In the future additional capabilities will be added to enable 3rd parties to submit transaction and rating information to Credo system.
 
